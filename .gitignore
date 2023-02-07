@@ -1,0 +1,4 @@
+B34/
+_pycache_/
+.env
+db.sqlite3
